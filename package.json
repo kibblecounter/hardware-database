@@ -1,0 +1,12 @@
+{
+  "name": "kibblecounter",
+  "version": "0.0.0",
+  "description": "Hardware setup for Kibble Counter",
+  "main": "hardware.js",
+  "author": "Mairin Bailey",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^2.0",
+    "johnny-five": "^0.10.0"
+  }
+}
